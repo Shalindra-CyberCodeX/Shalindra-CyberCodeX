@@ -7,9 +7,17 @@
 </div>
 
 <div id="badges" align="center">
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%200C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=👨‍💻I'm+a+CSE+Student;🕵️‍♂️ Cybersecurity+Proffessional;📱Mobile+App+Developer"></a>
+</p> -->
+<!-- <p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Student;Cybersecurity+Proffessional;Mobile+App+Developer"></a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Undergraduate;🕵️‍♂️Cybersecurity+Proffessional;📱Mobile+App+Developer"></a>
 </p>
+
   <!-- <a href="mailto:alishandev@proton.me">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
@@ -82,8 +90,8 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
 [![Shalindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&show_icons=true&theme=vision-friendly-dark)](https://github.com/al3sha9/github-readme-stats) -->
 
 </div>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">  -->
 
 <h1 align="center">🤝Connect with me:</h1>
 
