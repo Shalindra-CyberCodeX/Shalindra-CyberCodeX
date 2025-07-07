@@ -15,7 +15,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Undergraduate;🕵️‍♂️Cybersecurity+Proffessional;📱Mobile+App+Developer;![image](https://github.com/user-attachments/assets/17cdb3e1-842c-4d8b-b798-900ab281a813)Web+Developer"></a>
+  <a href="https://github.com/Shalindra-CyberCodeX/Shalindra-CyberCodeX"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Undergraduate;🕵️‍♂️Cybersecurity+Proffessional;📱Mobile+App+Developer;🌐Web+Developer"></a>
 </p>
 
   <!-- <a href="mailto:alishandev@proton.me">
