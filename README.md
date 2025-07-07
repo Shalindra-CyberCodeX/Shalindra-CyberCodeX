@@ -49,7 +49,7 @@
  
 As a passionate and driven cybersecurity and software engineering undergraduate at the University of Moratuwa, I bring a unique blend of technical expertise and leadership experience to the table. My background includes developing tools with Python, securing networks, Web and Mobile development  — all while adhering to best practices like OWASP standards.
 
-Currently, I'm diving deeper into the world of Web3 and decentralized applications. I’m actively exploring Cardano, Ethereum and other blockchain ecosystems, combining my passion for security with my curiosity for emerging technologies. I enjoy creating scalable, secure, and innovative solutions that help organizations and communities thrive in the digital age.
+Currently, I'm diving deeper into the world of Web3 and decentralized applications. I’m actively exploring Solana, Ethereum and other blockchain ecosystems, combining my passion for security with my curiosity for emerging technologies. I enjoy creating scalable, secure, and innovative solutions that help organizations and communities thrive in the digital age.
 
 - 🎓 Undergraduate in Computer Science & Engineering | University of Moratuwa
 - 🔐 Passionate about DevOps, Cloud Computing & Blockchain 
