@@ -80,6 +80,9 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
 <img  width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shalindra-CyberCodeX&count_private=true&theme=vision-friendly-dark&border_radius=10" alt="streak stats"/>
 </p>
 <p align= "center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shalindra-CyberCodeX&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shali" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&theme=react&show_icons=true&include_all_commits=true" /> 
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=react&layout=compact" />
 </p>
