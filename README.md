@@ -51,9 +51,9 @@ As a passionate and driven cybersecurity and software engineering undergraduate 
 
 Currently, I'm diving deeper into the world of Web3 and decentralized applications. I’m actively exploring Solana, Ethereum and other blockchain ecosystems, combining my passion for security with my curiosity for emerging technologies. I enjoy creating scalable, secure, and innovative solutions that help organizations and communities thrive in the digital age.
 
-- 🎓 Undergraduate in Computer Science & Engineering | University of Moratuwa
-- 🔐 Passionate about DevOps, Cloud Computing & Blockchain 
-- 📚 Lifelong learner passionate about solving real-world problems.
+- 🎓 CSE Undergraduate | University of Moratuwa
+- 🔐 Passionate about Fintech, Cybersecurity & Blockchain 
+- 📚 Lifelong learner & strong desire on solving real-world problems.
 
 
 
@@ -85,7 +85,7 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
 <br><br><br><br><br> -->
 <p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX=cdthomp1&show_icons=true&theme=radical" />
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX=cdthomp1&show_icons=true&theme=radical" /> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=vision-friendly-dark&layout=compact&exclude_lang=java+r" />
 
 </p>
