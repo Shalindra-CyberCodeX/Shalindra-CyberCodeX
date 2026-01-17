@@ -15,7 +15,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/Shalindra-CyberCodeX/Shalindra-CyberCodeX"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Undergraduate;🕵️‍♂️Cybersecurity+Enthusiastic;🌐Web+Developer";⛓️‍💥Blockchain+Researcher></a>
+  <a href="https://github.com/Shalindra-CyberCodeX/Shalindra-CyberCodeX"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Undergraduate;🕵️‍♂️Cybersecurity+Enthusiast;🌐Web+Developer;⛓️‍💥Blockchain+Researcher"></a>
 </p>
 
   <!-- <a href="mailto:alishandev@proton.me">
@@ -75,7 +75,7 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="left"> 
+<div align="center"> 
 <p align="center">
 <img  width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shalindra-CyberCodeX&count_private=true&theme=vision-friendly-dark&border_radius=10" alt="streak stats"/>
 </p>
@@ -83,10 +83,10 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shalindra-CyberCodeX&show_icons=true&locale=en&layout=compact&theme=react" alt="shali" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
 <br><br><br><br><br> -->
-  <p>
+<p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?Shalindra-CyberCodeX=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX=cdthomp1&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=vision-friendly-dark&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 <!--  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&theme=react&show_icons=true&include_all_commits=true" /> 
