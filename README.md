@@ -84,10 +84,10 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
 <br><br><br><br><br> -->
 <p>
-<a href="https://github.com/AVS1508">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX=cdthomp1&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=vision-friendly-dark&layout=compact&exclude_lang=java+r" />
-</a>
+
 </p>
 <!--  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&theme=react&show_icons=true&include_all_commits=true" /> 
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=react&layout=compact" />
