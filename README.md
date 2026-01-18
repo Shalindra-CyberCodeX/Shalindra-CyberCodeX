@@ -60,8 +60,8 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
 ## ⚒️ Languages and Tools: ⚒️
 <div align="center"> 
   
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,express,docker,git,github,linux,html,javascript,css,kali" />
-  <img src="https://skillicons.dev/icons?i=markdown,aws,mysql,nodejs,python,bash,react,figma,vscode,flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,ts,maven,cpp,express,docker,postman,solidity,mongodb,linux,html,javascript,css,kali" />
+  <img src="https://skillicons.dev/icons?i=nextjs,aws,mysql,nodejs,python,bash,react,figma,vscode,flutter,firebase" />
   <br/>
   
 </div>
