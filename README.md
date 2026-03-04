@@ -41,6 +41,8 @@
 <a href="https://example.com">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c4bHAwbXNiM2Y4cG1iMXJ1eml4YWhzMnhlOWVzYTlyZnhsNmwyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" height="200" alt="Alt Text">
 </a>
+</br>
+ 
 
 </div>
 
@@ -51,9 +53,29 @@ As a passionate and driven cybersecurity and software engineering undergraduate 
 
 Currently, I'm diving deeper into the world of Web3 and decentralized applications. I’m actively exploring Solana, Ethereum and other blockchain ecosystems, combining my passion for security with my curiosity for emerging technologies. I enjoy creating scalable, secure, and innovative solutions that help organizations and communities thrive in the digital age.
 
-- 🎓 CSE Undergraduate | University of Moratuwa
-- 🔐 Passionate about Fintech, Cybersecurity & Blockchain 
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>About Me</th>
+    <th>TryHackMe Badge</th>
+  </tr>
+  <tr>
+    <td>🎓 CSE Undergraduate | University of Moratuwa</td>
+    <td rowspan="3"><img src="https://tryhackme-badges.s3.amazonaws.com/cybermind369.png" alt="Your Image Badge" /></td>
+  </tr>
+  <tr>
+    <td>🔐 Passionate about Fintech, Cybersecurity & Blockchain</td>
+  </tr>
+  <tr>
+    <td>📚 Lifelong learner & strong desire on solving real-world problems.</td>
+  </tr>
+</table>
+
+<!--
+- 🎓 CSE Undergraduate | University of Moratuwa                                         
+- 🔐 Passionate about Fintech, Cybersecurity & Blockchain   
 - 📚 Lifelong learner & strong desire on solving real-world problems.
+
+-->
 
 
 
