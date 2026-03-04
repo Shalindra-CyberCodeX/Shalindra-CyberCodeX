@@ -49,9 +49,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
  
-As a passionate and driven cybersecurity and software engineering undergraduate at the University of Moratuwa, I bring a unique blend of technical expertise and leadership experience to the table. My background includes developing tools with Python, securing networks, Web and Mobile development  — all while adhering to best practices like OWASP standards.
-
-Currently, I'm diving deeper into the world of Web3 and decentralized applications. I’m actively exploring Solana, Ethereum and other blockchain ecosystems, combining my passion for security with my curiosity for emerging technologies. I enjoy creating scalable, secure, and innovative solutions that help organizations and communities thrive in the digital age.
+As a passionate Computer science undergraduate , I bring a unique blend of technical expertise and leadership experience to the table that includes developing tools with Python, securing networks, Web development while adhering to best practices like OWASP standards.
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
@@ -90,27 +88,29 @@ Currently, I'm diving deeper into the world of Web3 and decentralized applicatio
  
 
 ## ⚡GitHub Statistics⚡
- 
+
+ <table align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img width="500" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shalindra-CyberCodeX&count_private=true&theme=vision-friendly-dark&border_radius=10" alt="streak stats"/>
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=vision-friendly-dark&layout=compact&exclude_lang=java+r" alt="top langs"/>
+    </td>
+  </tr>
+</table>
 
 
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="center"> 
-<p align="center">
-<img  width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shalindra-CyberCodeX&count_private=true&theme=vision-friendly-dark&border_radius=10" alt="streak stats"/>
-</p>
+
 <!-- <p align= "center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shalindra-CyberCodeX&show_icons=true&locale=en&layout=compact&theme=react" alt="shali" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
 <br><br><br><br><br> -->
-<p>
 
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX=cdthomp1&show_icons=true&theme=radical" /> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=vision-friendly-dark&layout=compact&exclude_lang=java+r" />
-
-</p>
 <!--  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&theme=react&show_icons=true&include_all_commits=true" /> 
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalindra-CyberCodeX&theme=react&layout=compact" />
 </p> -->
