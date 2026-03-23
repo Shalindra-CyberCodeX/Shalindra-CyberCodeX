@@ -80,8 +80,8 @@ As a passionate Computer science undergraduate , I bring a unique blend of techn
 ## ⚒️ Languages and Tools: ⚒️
 <div align="center"> 
   
-  <img src="https://skillicons.dev/icons?i=java,ts,maven,cpp,express,docker,postman,solidity,mongodb,linux,html,javascript,css,kali" />
-  <img src="https://skillicons.dev/icons?i=nextjs,aws,mysql,nodejs,python,bash,react,figma,vscode,flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,ts,maven,cpp,express,docker,postman,mongodb,linux,html,javascript,css,kali" />
+  <img src="https://skillicons.dev/icons?i=nextjs,aws,mysql,nodejs,python,bash,react,figma,vscode,flutter" />
   <br/>
   
 </div>
