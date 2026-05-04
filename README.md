@@ -120,7 +120,7 @@ As a passionate Computer science undergraduate , I bring a unique blend of techn
 
 [![Shalindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalindra-CyberCodeX&show_icons=true&theme=vision-friendly-dark)](https://github.com/al3sha9/github-readme-stats) -->
 
-</div>
+<!-- </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">🤝Connect with me:</h1>
 
@@ -131,7 +131,7 @@ As a passionate Computer science undergraduate , I bring a unique blend of techn
 <a href="https://X.com/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=FFFFFF" alt="_shalyyy__" height="35" width="35" /></a> 
 <a href="shalindraperera396@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="email" height="35" width="35" /></a>  
 <a href="https://github.com/Shalindra-CyberCodeX" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=16318&format=png&color=FFFFFF" alt="github" height="35" width="35" /></a>  
-</div>
+</div> -->
 
 
 
