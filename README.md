@@ -15,7 +15,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/Shalindra-CyberCodeX/Shalindra-CyberCodeX"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Undergraduate;🕵️‍♂️Cybersecurity+Enthusiast;🌐Web+Developer;⛓️‍💥Blockchain+Researcher"></a>
+  <a href="https://github.com/Shalindra-CyberCodeX/Shalindra-CyberCodeX"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👨‍💻I'm+a+CSE+Undergraduate;🕵️‍♂️Cybersecurity+Enthusiast;🌐Web+Developer;😊DevOps+Enthusiast"></a>
 </p>
 
   <!-- <a href="mailto:alishandev@proton.me">
