@@ -6,6 +6,12 @@
   </h1>
 </div>
 
+<p align="center">
+  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  <img src="https://komarev.com/ghpvc/?username=Shalindra-CyberCodeX&color=415ac4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
+
+
 <div id="badges" align="center">
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%200C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=👨‍💻I'm+a+CSE+Student;🕵️‍♂️ Cybersecurity+Proffessional;📱Mobile+App+Developer"></a>
