@@ -67,7 +67,7 @@ As a passionate Computer science undergraduate , I bring a unique blend of techn
     <td rowspan="3"><img src="https://tryhackme-badges.s3.amazonaws.com/cybermind369.png" alt="Your Image Badge" /></td>
   </tr>
   <tr>
-    <td>🔐 Passionate about Fintech, Cybersecurity, DevOps & Cloud</td>
+    <td>🔐 Passionate about Cybersecurity, DevOps & Cloud</td>
   </tr>
   <tr>
     <td>📚 Lifelong learner & strong desire on solving real-world problems.</td>
