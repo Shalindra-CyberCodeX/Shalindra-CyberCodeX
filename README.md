@@ -55,7 +55,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
  
-As a passionate Computer science undergraduate , I bring a unique blend of technical expertise and leadership experience to the table that includes developing tools with Python, securing networks, Web development while adhering to best practices like OWASP standards.
+As a passionate Computer science undergraduate with a strong interest in DevOps, Cloud infrastructure, Automation, and Secure systems engineering
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
